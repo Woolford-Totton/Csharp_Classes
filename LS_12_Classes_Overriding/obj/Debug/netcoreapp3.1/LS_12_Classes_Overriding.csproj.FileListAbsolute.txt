@@ -1,0 +1,14 @@
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.exe
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.deps.json
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.runtimeconfig.json
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.runtimeconfig.dev.json
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.dll
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\bin\Debug\netcoreapp3.1\LS_12_Classes_Overriding.pdb
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.csproj.AssemblyReference.cache
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.AssemblyInfoInputs.cache
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.AssemblyInfo.cs
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.csproj.CoreCompileInputs.cache
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.dll
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.pdb
+C:\Users\bwoolford\source\repos\LS_12_Classes_Overriding\obj\Debug\netcoreapp3.1\LS_12_Classes_Overriding.genruntimeconfig.cache

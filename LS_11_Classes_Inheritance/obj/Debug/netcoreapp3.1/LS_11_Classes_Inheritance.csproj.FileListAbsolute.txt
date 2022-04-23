@@ -1,0 +1,14 @@
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.exe
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.deps.json
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.runtimeconfig.json
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.runtimeconfig.dev.json
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.dll
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\bin\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.pdb
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.csproj.AssemblyReference.cache
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.AssemblyInfoInputs.cache
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.AssemblyInfo.cs
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.dll
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.pdb
+C:\Users\bwoolford\source\repos\LS_11_Classes_Inheritance\obj\Debug\netcoreapp3.1\LS_11_Classes_Inheritance.genruntimeconfig.cache
